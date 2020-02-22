@@ -277,15 +277,15 @@
                     let filterStrings = ["","fbt-gen-replace"];
                     // ==== lowlight1 match =======================================================|
                     if (/lowlight1/.test(replaceRules[index][1])) {
-                        filterStrings = ["LL1", "fbt-lowlight1"];
+                        filterStrings = ["LL1", "lowlight1"];
                     }else
                     // ==== lowlight2 match =======================================================|
                     if (/lowlight2/.test(replaceRules[index][1])) {
-                        filterStrings = ["LL2", "fbt-lowlight2"];
+                        filterStrings = ["LL2", "lowlight2"];
                     }else
                     // ==== highlight1 match ======================================================|
                     if (/highlight1/.test(replaceRules[index][1])) {
-                        filterStrings = ["HL1", "fbt-highlight1"];
+                        filterStrings = ["HL1", "highlight1"];
                     }
                     if (filterStrings){
                         consolelog(nodeCounter +" ("+ filterStrings[0] +"): "+ currentText.trim() +" | "+ replaceRules[index][0], filterStrings[0]+"-MA");
