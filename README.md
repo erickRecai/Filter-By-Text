@@ -18,9 +18,10 @@ https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 ![Replacing each text instance](https://github.com/erickRecai/Filter-By-Text/blob/Filter-by-Text/examples/ac.%20replace%20by%20text.png)
 
 # Enabling Deletion, Lowlighting and Highlighting
-### Identify the parent blocks
+### Identifying the parent blocks
 It helps to use an CSS extension to apply a simple CSS rule to identify a good class value to use.
 Here, the class I use is <code>public</code> which I add a thin red border to all elements with that class.
-![](https://github.com/erickRecai/Filter-By-Text/blob/Filter-by-Text/examples/ba.%20borders.png)
+![Identifying the parent blocks](https://github.com/erickRecai/Filter-By-Text/blob/Filter-by-Text/examples/ba.%20borders.png)
 ### Example for each filter rule
 ![Example for each filter rule](https://github.com/erickRecai/Filter-By-Text/blob/Filter-by-Text/examples/bb.%20highlight%20lowlight%20example.png)
+And you can simply disable or delete the css rule created to find the parent blocks afterwards.
