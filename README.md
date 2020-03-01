@@ -21,7 +21,7 @@ To install this script specifically, just the <code>user.js</code> file needs to
 # Enabling Deletion, Lowlighting and Highlighting
 ### Identifying the parent blocks
 It helps to use an CSS extension to apply a simple CSS rule to identify a good class value to use.
-Here, the class I use is <code>public</code> which I add a thin red border to all elements with that class.
+Here, the class I use is <code>public</code>. I add a thin red border to all elements with that class.
 ![Identifying the parent blocks](https://github.com/erickRecai/Filter-By-Text/blob/Filter-by-Text/examples/ba.%20borders.png)
 ### Example for each filter rule
 ![Example for each filter rule](https://github.com/erickRecai/Filter-By-Text/blob/Filter-by-Text/examples/bb.%20highlight%20lowlight%20example.png)
