@@ -7,7 +7,7 @@ Requires a browser extension that enables userscripts to install this userscript
 Chrome:  
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en  
 Firefox:  
-https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/  
 To install this script specifically, just the <code>user.js</code> file needs to downloaded.
 
 # Replace Examples
