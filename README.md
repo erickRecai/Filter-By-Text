@@ -3,7 +3,7 @@ A userscript that replaces words on various sites using regular expression rules
 A bit of tinkering is needed to enable element deletion, lowlighting, and highlighting.
 
 # Installation
-Requires a browser extension that enables userscripts to install this userscript. I personally use Tampermonkey but other extensions should work as well.
+Requires a browser extension that enables userscripts to install this userscript. I personally use Tampermonkey but other extensions should work as well.  
 Chrome:  
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en  
 Firefox:  
@@ -24,4 +24,5 @@ Here, the class I use is <code>public</code> which I add a thin red border to al
 ![Identifying the parent blocks](https://github.com/erickRecai/Filter-By-Text/blob/Filter-by-Text/examples/ba.%20borders.png)
 ### Example for each filter rule
 ![Example for each filter rule](https://github.com/erickRecai/Filter-By-Text/blob/Filter-by-Text/examples/bb.%20highlight%20lowlight%20example.png)
-And you can simply disable or delete the css rule created to find the parent blocks afterwards.
+And you can simply disable or delete the css rule created to find the parent blocks afterwards.  
+* Sites may change how they structure their site so if custom filtering ever stops, it may be due to a change on the site itself.
