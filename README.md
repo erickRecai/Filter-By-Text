@@ -3,7 +3,7 @@ A userscript that replaces words on various sites using regular expression rules
 A bit of tinkering is needed to enable element deletion, lowlighting, and highlighting.
 
 # Installation
-Requires a browser extension to install this userscript. I personally use Tampermonkey but other extensions should work as well.
+Requires a browser extension that enables userscripts to install this userscript. I personally use Tampermonkey but other extensions should work as well.
 Chrome:  
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en  
 Firefox:  
